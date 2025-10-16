@@ -1,5 +1,5 @@
 <h1 align="center"> Oi! Meu nome é Rian Abdias. </h1>
-<div align="center"> Graduando em Tecnologia da Informação na UFRN 📝 \ Técnico em Informática no IFRN 🧑‍🎓 <br><br>
+<div align="center"> Cursando Tecnologia da Informação na UFRN 📝 \ Técnico em Informática no IFRN 🧑‍🎓 <br><br>
 <a href = "mailto:contatorafaballerini@gmail.com" ><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
