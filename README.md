@@ -28,7 +28,9 @@
   
   - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" /> Java em Geral.
     
-  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="40"/> Kotlin em desenvolvimento mobile.
+  - <img src="https://www.svgrepo.com/show/373420/advpl.svg" width="40"/> ADVPL em estágio.
+
+  - <img src="https://icon.icepanel.io/Technology/svg/Godot-Engine.svg" width="40"/> Godot em matéria da faculdade.
   
   </div>
 
