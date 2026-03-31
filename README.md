@@ -39,9 +39,4 @@
 <br clear="right">
 <hr>
 
-<h3> Github Stats 👨🏻‍💻 </h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RianAbdias&theme=radical&layout=compact&border_radius=4.5" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api?username=RianAbdias&show_icons=true&theme=radical&layout=compact&rank_icon=github&border_radius=4.5" height="160"/>
-</div>
 
